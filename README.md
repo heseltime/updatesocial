@@ -12,7 +12,7 @@ We'll want to connect important links to resources we consult regularly.
 
 * [Update Social Lecture List](https://www.jku.at/lit-open-innovation-center/open-innovation-in-science/lehre-und-weiterbildung/updatesocial/)
 
-Actually, let's bring that list here:
+Actually, let's bring that list here: **Update Social Lecture Schedule!**
 
 #### Community Building: Moderation und Planung (DE title, content available in EN? We'll check) :busts_in_silhouette:
 
