@@ -40,7 +40,7 @@ Learn how to give and receive constructive feedback. You will also be prepared t
 
 #### *Celebrating Communities :fireworks: (see below)*
 
-:arrow_right: ***June 5, 5 - 7 PM*** :arrow_left:
+:arrow_right: ***Wednesday, June 5, 5 - 7 PM*** :arrow_left:
 
 *Capstone Event at LIFT_C “Summer Get Together.”*
 
@@ -107,7 +107,7 @@ Most importantly (don't be afraid, let's have fun and invite everyone) -
 
 ### Celebrating Communities :fireworks:
 
-:arrow_right: **June 5, 5 - 7 PM** :arrow_left:
+:arrow_right: **Wednesday, June 5, 5 - 7 PM** :arrow_left:
 
 Capstone Event at LIFT_C “Summer Get Together.”
 
