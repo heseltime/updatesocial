@@ -14,6 +14,8 @@ We'll want to connect important links to resources we consult regularly.
 
 From the community call:
 
+![Original Project Plan with Milestone](stash/img/community_call_project_plan.png)
+
 ### Current Project Plan
 
 Changes are usually likely. Updates to the plan will follow here.
