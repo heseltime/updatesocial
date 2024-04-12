@@ -55,7 +55,7 @@ Let's keep this repo as the main source of truth! (This would be an anti-tool-pr
 
 ### Editing-Privileges
 
-The same for all group members: anything can be changed anytime (sensibly). Git tracks changes reliably and recoverably.
+The same for all group members: anything can be changed anytime (sensibly). Git tracks changes reliably and recoverably - make sure to add a good git message in the imperative convention to indicate your though process though ("Format" is good, "Clarify the idea" is better).
 
 ### Blog
 
