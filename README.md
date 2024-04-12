@@ -1,4 +1,4 @@
-# Welcome, Accessability Buddies!
+# Welcome, Accessibility Buddies!
 
 This is the repo for our work as part of [Update Social](https://updatesocial.org/)
 
