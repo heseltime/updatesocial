@@ -12,7 +12,7 @@ We'll want to connect important links to resources we consult regularly.
 
 ### Original Project Plan
 
-From the community call:
+From the community call (DE, image) -
 
 ![Original Project Plan with Milestone](stash/img/community_call_project_plan.png)
 
