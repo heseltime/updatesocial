@@ -1,3 +1,5 @@
+![Banner Courtesy of LIT, Linz Institute of Technology](_stash/img/banner.png)
+
 # Welcome, Accessibility Buddies!
 
 This is the repo for our work as part of [Update Social](https://updatesocial.org/)
@@ -67,15 +69,13 @@ Most importantly (don't be afraid, let's have fun and invite everyone) -
 
 Capstone Event at LIFT_C “Summer Get Together.”
 
-But also:
-
-### IIS (Institute of Integrated Study) Introductions
-
-We should make sure we stay connected as this project comes from this group and they are happy to help and can give us all the important inputs. Not to make things too complicated, but FAW (Institute for Applied Knowledge Processing) and IML (Machine Learning) at JKU might also be interested as the Jack's Masters thesis that this project intersects with is situated at these three institutes.
-
-### Invitations
+#### Invitations
 
 Everyone, of course, but as a specific **TODO**: I'd say we invited KHG as another community? Any others we can think of? "Cross-community learning," maybe? Raphael, also at KHG, is a JKU LIO (Leading Innovative Organizations) student and has so much to say about this topic, maybe he'd be interested in a collaboration on thinking about communities in general, if this is something we are interested in.
+
+### Other Events: Maybe an IIS (Institute of Integrated Study) Get-Together
+
+We should make sure we stay connected as this project comes from this group and they are happy to help and can give us all the important inputs. Not to make things too complicated, but FAW (Institute for Applied Knowledge Processing) and IML (Machine Learning) at JKU might also be interested as the Jack's Masters thesis that this project intersects with is situated at these three institutes.
 
 ## Further
 
