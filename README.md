@@ -37,9 +37,9 @@ If we want to do this: **TODO**
 
 Or, in terms of grouping sensibly:
 
-:one: Documentset and Experiments: *TODO* (Two people)
-:two: Practical Prototype: *TODO* (Jack)
-:three: Service Model: *TODO* 
+* :one: Documentset and Experiments: *TODO* (Two people)
+* :two: Practical Prototype: *TODO* (Jack)
+* :three: Service Model: *TODO* 
 
 ### Current Project Plan
 
