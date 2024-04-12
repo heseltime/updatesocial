@@ -12,6 +12,42 @@ We'll want to connect important links to resources we consult regularly.
 
 * [Update Social Lecture List](https://www.jku.at/lit-open-innovation-center/open-innovation-in-science/lehre-und-weiterbildung/updatesocial/)
 
+Actually, let's bring that list here:
+
+#### Community Building: Moderation und Planung (DE title, content available in EN? We'll check) :busts_in_silhouette:
+
+:arrow_right: **Friday, April 12, 1:45 - 6:45 PM** :arrow_left:
+
+In this module: group dynamics, moderation techniques, and planning skills for effective community building.
+
+#### Co-Creation: Nutzerzentrierte Herangehensweisen :handshake:
+
+:arrow_right: **Friday, April 19, 1:45 - 6:45 PM** :arrow_left:
+
+Learn how to implement a user-centered approach in projects and put the needs of the target group(s) at the forefront.
+
+#### Humor and Improv to Engage People (Guest Lecture) :laughing:
+
+:arrow_right: **Thursday, May 2, 9:30 - 11:30 AM** :arrow_left:
+
+Discover how humor and improvisation can be effectively used to reach people and convey messages in a human, engaging, and powerful way.
+
+#### Final Impact: Präsentationen und Feedback :chart_with_upwards_trend:
+
+:arrow_right: **Friday, May 17, 1:45 - 6:45 PM** :arrow_left:
+
+Learn how to give and receive constructive feedback. You will also be prepared to present your results concisely and convincingly.
+
+#### *Celebrating Communities :fireworks: (see below)*
+
+:arrow_right: ***June 5, 5 - 7 PM*** :arrow_left:
+
+*Capstone Event at LIFT_C “Summer Get Together.”*
+
+### Further Links
+
+If any.
+
 ### Original Project Plan :1234:
 
 From the community call (DE) -
