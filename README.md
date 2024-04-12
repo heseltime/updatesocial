@@ -14,7 +14,7 @@ We'll want to connect important links to resources we consult regularly.
 
 From the community call (DE) -
 
-![Original Project Plan with milestones graphically from the call, text follows below](stash/img/community_call_project_plan.png)
+![Original Project Plan with milestones graphically from the call, text follows below](_stash/img/community_call_project_plan.png)
 
 Text in EN:
 
@@ -23,6 +23,15 @@ Text in EN:
 * **Milestone 3**: Experiments, April 22 - May 24 (**Milestone week of Monday, May 13**)
 * **Milestone 4**: Service Model, May 6 - May 24 (**Milestone week of Monday, May 20**)
 * **Milestone 5**: Documentation, May 13 - 31 (**Milestone week of Monday, May 27**)
+
+**In terms of responsibility and accountability, how about a task-manager model where each project group member takes charge of a Milestone?** (Minus know-how since this is task specific, minus documentation since this pertains to everything and the final presentation, plus the practical prototype, which is something Jack is trying to do: let's discuss soon!) Service model might particularly relevant to the presentation and could draw on the other tasks, since the final presentation will take place in a JKU (Johannes Kepler University) context.
+
+If we want to do this: **TODO**
+
+* Aida: *TODO*
+* Amogh: *TODO*
+* Jack: *TODO*
+* Marcel: *TODO*
 
 ### Current Project Plan
 
@@ -34,7 +43,7 @@ Changes are usually likely. Updates to the plan will follow here.
 
 ### Documents-Management
 
-Let's keep this repo as the main source of truth! Code goes into /prototype, all other directories are docs.
+Let's keep this repo as the main source of truth! (This would be an anti-tool-proliferation experiment - have you noticed this trend? One thing we do have to think about then is how to mark and track **TODO**s - are text files and bold face enough?)
 
 ### Editing-Privileges
 
@@ -46,7 +55,29 @@ We might like to run a blog from this repo to publish elsewhere, but we'll discu
 
 ## The Work
 
-Now it gets interesting.
+Now it gets interesting: **Proposed organisation of this section: like task and repo structure, document set, experiments, practical prototype and finally, service model.**
+
+## Final Presentation and other Events
+
+Most importantly (don't be afraid, let's have fun and invite everyone) -
+
+### Celebrating Communities
+
+**June 5, 5 - 7 PM**
+
+Capstone Event at LIFT_C “Summer Get Together.”
+
+But also:
+
+### IIS (Institute of Integrated Study) Introductions
+
+We should make sure we stay connected as this project comes from this group and they are happy to help and can give us all the important inputs. Not to make things too complicated, but FAW (Institute for Applied Knowledge Processing) and IML (Machine Learning) at JKU might also be interested as the Jack's Masters thesis that this project intersects with is situated at these three institutes.
+
+### Invitations
+
+Everyone, of course, but as a specific **TODO**: I'd say we invited KHG as another community? Any others we can think of? "Cross-community learning," maybe? Raphael, also at KHG, is a JKU LIO (Leading Innovative Organizations) student and has so much to say about this topic, maybe he'd be interested in a collaboration on thinking about communities in general, if this is something we are interested in.
+
+## Further
 
 ### Resources (Links)
 
