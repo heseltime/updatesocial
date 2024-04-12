@@ -55,7 +55,7 @@ Let's keep this repo as the main source of truth! (This would be an anti-tool-pr
 
 ### Editing-Privileges
 
-The same for all group members.
+The same for all group members: anything can be changed anytime (sensibly). Git tracks changes reliably and recoverably.
 
 ### Blog
 
@@ -81,7 +81,7 @@ Everyone, of course, but as a specific **TODO**: I'd say we invited KHG as anoth
 
 ### Other Events: Maybe an IIS (Institute of Integrated Study) Get-Together
 
-We should make sure we stay connected as this project comes from this group and they are happy to help and can give us all the important inputs. Not to make things too complicated, but FAW (Institute for Applied Knowledge Processing) and IML (Machine Learning) at JKU might also be interested as the Jack's Masters thesis that this project intersects with is situated at these three institutes.
+We should make sure we stay connected as this project comes from this group and they are happy to help and can give us all the important inputs. *Not to make things too complicated, but FAW (Institute for Applied Knowledge Processing) and IML (Machine Learning) at JKU might also be interested as Jack's Masters thesis that this project intersects with is situated at these three institutes.*
 
 ## Further 
 
