@@ -4,7 +4,7 @@
 
 This is the repo for our work as part of [Update Social](https://updatesocial.org/)
 
-## Organisational
+## Organisational :telescope:
 
 ### Links
 
@@ -12,7 +12,7 @@ We'll want to connect important links to resources we consult regularly.
 
 * [Update Social Lecture List](https://www.jku.at/lit-open-innovation-center/open-innovation-in-science/lehre-und-weiterbildung/updatesocial/)
 
-### Original Project Plan
+### Original Project Plan :1234:
 
 From the community call (DE) -
 
@@ -32,8 +32,14 @@ If we want to do this: **TODO**
 
 * Aida: *TODO*
 * Amogh: *TODO*
-* Jack: *TODO*
+* Jack: *TODO* (would like to do practical prototype)
 * Marcel: *TODO*
+
+Or, in terms of grouping sensibly:
+
+:one: Documentset and Experiments: *TODO* (Two people)
+:two: Practical Prototype: *TODO* (Jack)
+:three: Service Model: *TODO* 
 
 ### Current Project Plan
 
@@ -55,7 +61,7 @@ The same for all group members.
 
 We might like to run a blog from this repo to publish elsewhere, but we'll discuss that soon.
 
-## The Work
+## The Work :hammer:
 
 Now it gets interesting: **Proposed organisation of this section: like task and repo structure, document set, experiments, practical prototype and finally, service model.**
 
@@ -63,9 +69,9 @@ Now it gets interesting: **Proposed organisation of this section: like task and 
 
 Most importantly (don't be afraid, let's have fun and invite everyone) -
 
-### Celebrating Communities
+### Celebrating Communities :fireworks:
 
-**June 5, 5 - 7 PM**
+:arrow_right: **June 5, 5 - 7 PM** :arrow_left:
 
 Capstone Event at LIFT_C “Summer Get Together.”
 
@@ -77,7 +83,7 @@ Everyone, of course, but as a specific **TODO**: I'd say we invited KHG as anoth
 
 We should make sure we stay connected as this project comes from this group and they are happy to help and can give us all the important inputs. Not to make things too complicated, but FAW (Institute for Applied Knowledge Processing) and IML (Machine Learning) at JKU might also be interested as the Jack's Masters thesis that this project intersects with is situated at these three institutes.
 
-## Further
+## Further 
 
 ### Resources (Links)
 
