@@ -43,7 +43,7 @@ Changes are usually likely. Updates to the plan will follow here.
 
 ### Documents-Management
 
-Let's keep this repo as the main source of truth! (This would be an anti-tool-proliferation experiment - have you noticed this trend? One thing we do have to think about then is how to mark and track **TODO**s - are text files and bold face enough?)
+Let's keep this repo as the main source of truth! (This would be an anti-tool-proliferation experiment - have you noticed this trend? One thing we do have to think about then is how to mark and track **TODO**s - are text files and bold face enough?) Git branching and merging optional if you feel comfortable.
 
 ### Editing-Privileges
 
