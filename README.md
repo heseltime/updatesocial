@@ -83,7 +83,13 @@ Changes are usually likely. Updates to the plan will follow here.
 
 ### Meeting Agenda
 
-**How about coffee-fueled get-togethers in KHG (Katholische Hochschulgemeinde) in accordance with the Milestones, say Wednesdays?**
+### First Meeting re: Milestones 1 and 2, getting oriented and divying up the main task + format for collecting ideas!
+
+Can I introduce you to Obsidan?
+
+:arrow_right: **Wednesday, April 17, 12 PM** :arrow_left:
+
+**KHG in Austria and [FaceTime](https://facetime.apple.com/join#v=1&p=3E6Gv/nYEe6keSL7pUAEVA&k=35Uq_-YOjnuskYeTEOehGzN6MVVABDGj8v9bT7pWnX8)**
 
 ### Documents-Management
 
