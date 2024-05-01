@@ -89,6 +89,8 @@ Check-In Documentset Milestone + Demo Daily-Reports OpenAI API calling (simple p
 
 **KHG in Austria**
 
+_Next meeting May 15th, another Wednesday, 6 PM? KHG?_
+
 ### Documents-Management
 
 Let's keep this repo as the main source of truth! (This would be an anti-tool-proliferation experiment - have you noticed this trend? One thing we do have to think about then is how to mark and track **TODO**s - are text files and bold face enough?) Git branching and merging optional if you feel comfortable.
