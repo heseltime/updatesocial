@@ -83,6 +83,12 @@ Can I introduce you to Obsidan?
 
 **KHG in Austria and [FaceTime](https://facetime.apple.com/join#v=1&p=3E6Gv/nYEe6keSL7pUAEVA&k=35Uq_-YOjnuskYeTEOehGzN6MVVABDGj8v9bT7pWnX8)**
 
+Check-In Documentset Milestone + Demo Daily-Reports OpenAI API calling (simple prototype):
+
+:arrow_right: **Wednesday, May 1st, 4 PM** :arrow_left:
+
+**KHG in Austria**
+
 ### Documents-Management
 
 Let's keep this repo as the main source of truth! (This would be an anti-tool-proliferation experiment - have you noticed this trend? One thing we do have to think about then is how to mark and track **TODO**s - are text files and bold face enough?) Git branching and merging optional if you feel comfortable.
