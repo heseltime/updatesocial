@@ -89,7 +89,7 @@ Check-In Documentset Milestone + Demo Daily-Reports OpenAI API calling (simple p
 
 **KHG in Austria**
 
-_Next meeting May 15th, another Wednesday, 6 PM? KHG?_
+_Next meeting TBD_
 
 ### Documents-Management
 
