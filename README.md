@@ -64,18 +64,10 @@ Text in EN:
 
 **In terms of responsibility and accountability, how about a task-manager model where each project group member takes charge of a Milestone?** (Minus know-how since this is task specific, minus documentation since this pertains to everything and the final presentation, plus the practical prototype, which is something Jack is trying to do: let's discuss soon!) Service model might particularly relevant to the presentation and could draw on the other tasks, since the final presentation will take place in a JKU (Johannes Kepler University) context.
 
-If we want to do this: **TODO**
-
-* Aida: *TODO*
-* Amogh: *TODO*
-* Jack: *TODO* (would like to do practical prototype)
-* Marcel: *TODO*
-
-Or, in terms of grouping sensibly:
-
-1. Documentset and Experiments: *TODO* (Two people)
-2. Practical Prototype: *TODO* (Jack)
-3. Service Model: *TODO* 
+* Aida: Documentset and Experiments I
+* Amogh: Service Model
+* Jack: Practical Prototype
+* Marcel: Documentset and Experiments II
 
 ### Current Project Plan
 
@@ -90,6 +82,14 @@ Can I introduce you to Obsidan?
 :arrow_right: **Wednesday, April 17, 12 PM** :arrow_left:
 
 **KHG in Austria and [FaceTime](https://facetime.apple.com/join#v=1&p=3E6Gv/nYEe6keSL7pUAEVA&k=35Uq_-YOjnuskYeTEOehGzN6MVVABDGj8v9bT7pWnX8)**
+
+Check-In Documentset Milestone + Demo Daily-Reports OpenAI API calling (simple prototype):
+
+:arrow_right: **Wednesday, May 1st, 4 PM** :arrow_left:
+
+**KHG in Austria**
+
+_Next meeting TBD_
 
 ### Documents-Management
 

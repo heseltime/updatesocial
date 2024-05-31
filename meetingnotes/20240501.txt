@@ -1,0 +1,26 @@
+Meeting Notes May 1st
+
+Challenge Right Now
+
+Finding the right representation format for feeding a pdf (non-barrierfree) to an LLM. Would it work to break a document down to pages? Is such an encoding already to big for the LLM context windows? 
+
+Background is understanding how (barrierfree) pdf documents are structured (the two English books). We should probably all build knowledge about the barrierfree topic: what metadata are we talking about? Can we just feed the metadata to the LLM? How can we break it up?
+
+Going forward
+
+How do Python pdf libraries represent content/metadata? To keep things simple for now, let's focus on tagging. We might find that there are other tasks to do that have to be broken up, like semantic ordering of paragraphs (apparently order is also encoded in the document).
+
+* Marcel: pypdf
+* Aida: PyMuPdf
+* Jack: langchain
+* Amogh: pikepdf?
+
+Maybe good at this point to all get on the same page as far as
+
+* available tools
+* pdf structure
+* barrierfree pdf structure especially
+
+Check
+
+Adobe Acrobat Access at IIS

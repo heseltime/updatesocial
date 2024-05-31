@@ -1,0 +1,35 @@
+Pres idea
+
+crocodile bridge story (Marcel) - Amogh will present?
+tech: tagging analysis, classification (NN?), and LLM generation 
+
+
+Aida (tool analysis: PyMuPdf)
+
+Extract tags from PDF - idea of comparing for/programmatic checking vs LLM-based approach. Basically --> pdf in, getting out what tags are missing, so this is a basic checking/classifying idea as applied to pdf barrierfreedom analysis. So we want to see if we can get the feedback thru zero shoot LLM and how it compares programmatic (for-loop) approach. 
+
+Intersting here: there are free tools like PAC (PDF Accessibilty Checker, has API? What is the license? TODO) - what can we implement ourselves.
+
+
+Marcel (tool analysis: pypdf)
+
+QPDF command line tool to analyze pdf encoding - python approaches to edit title, in the metadata for example. Metadata like title esepcially is also particularly relevant for search engines.
+
+PAC: checker, also used by Gerhard probably. PDF internals: models like graphics model, text model, tagging model.
+
+Note on the barrierfree pdfs book (2019): three ways to make accessible, one to use an already published pdf, having a written (word) file and then make it accessible, preferrable: doing it from the beginning - "making an already published pdf barrierfree is not automatable." 
+
+Might also do short summary of this book, incl. the checklist. 
+
+The concrete challenge of making docs barrierfree is:
+
+* tags <-- work focus
+* title
+* language (tag)
+* right semantics, related to .. <-- challenge
+* correct ordering
+* text should be text, not an image
+* encoding in general
+* text-description
+* just give relevant details - dismiss artefacts
+* security
