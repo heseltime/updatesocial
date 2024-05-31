@@ -22,8 +22,8 @@ report_path = f'{output_path}{input_pdf}-report.xlsx'
 try:
     # Initial setup, create credentials instance.
     credentials = Credentials.service_principal_credentials_builder() \
-        .with_client_id("bd4cf899bbd6457eacfb64dc2a77f996") \
-        .with_client_secret("p8e-NOeN7J7qzX4HethEC18lDjOMMFnaTVSH") \
+        .with_client_id("") \
+        .with_client_secret("") \
         .build()
 
     # Create an ExecutionContext using credentials and create a new operation instance.
